@@ -5,7 +5,23 @@
     <description>Recent content on SpiderBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 21:52:53 +0200</lastBuildDate><atom:link href="https://dynamic-pistol.github.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://dynamic-pistol.github.io/img/icon.svg</icon>
+    <lastBuildDate>Sat, 11 Jan 2025 23:27:52 +0200</lastBuildDate><atom:link href="https://dynamic-pistol.github.io/index.xml" rel="self" type="application/rss+xml" /><icon>https://dynamic-pistol.github.io/logo.svg</icon>
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://dynamic-pistol.github.io/posts/first-post/</link>
+      <pubDate>Sat, 11 Jan 2025 23:27:52 +0200</pubDate>
+      
+      <guid>https://dynamic-pistol.github.io/posts/first-post/</guid>
+      <description><![CDATA[<p>Hi!</p>
+<p>This is my first post on SpiderBlogs!</p>
+<p>This was made using hugo, and uses hugo-ficurinia as a theme.</p>
+<p>Expect more posts sometime!</p>
+]]></description>
+      
+    </item>
+    
     
     
     

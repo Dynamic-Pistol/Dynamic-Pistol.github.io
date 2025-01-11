@@ -4,6 +4,10 @@
     
     
     
-    "pages": []
+        
+        
+        
+    
+    "pages": [{"date":"2025-01-11","image":"","imageAlt":"","link":"https://dynamic-pistol.github.io/posts/first-post/","summary":"\u003cp\u003eHi!\u003c/p\u003e\n\u003cp\u003eThis is my first post on SpiderBlogs!\u003c/p\u003e\n\u003cp\u003eThis was made using hugo, and uses hugo-ficurinia as a theme.\u003c/p\u003e\n\u003cp\u003eExpect more posts sometime!\u003c/p\u003e","tags":[],"text":"hi!\nthis is my first post on spiderblogs!\nthis was made using hugo, and uses hugo-ficurinia as a theme.\nexpect more posts sometime!\n","title":"First Post"}]
 }
 
